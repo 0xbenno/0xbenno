@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" src="https://count.getloli.com/@:0xbenno?theme=3d-num&padding=6&offset=5&scale=0.9&align=top&pixelated=1&darkmode=1"  />
+<img align="right" src="https://count.getloli.com/@:0xbenno?theme=3d-num&padding=6&offset=5&scale=0.3&align=top&pixelated=1&darkmode=1"  />
 
 ###
 
